@@ -1,4 +1,13 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanAung)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/NathanAung">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiliken&rank_icon=github&theme=dark&card_width=400px&custom_title=Stats&show_icons=true" />
+</a>
+
+
+
+<a href="https://github.com/NathanAung">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiliken&rank_icon=github&theme=dark&card_width=400px&custom_title=Languages&layout=compact" />
+</a>
+ 
 
 <!--
 **NathanAung/NathanAung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
