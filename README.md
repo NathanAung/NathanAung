@@ -45,13 +45,20 @@
 <br>
 
 ### 📊 &nbsp;GitHub Analytics
+<p align="center">
 <a href="https://github.com/NathanAung">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NathanAung&rank_icon=github&theme=dark&card_width=400px&custom_title=Stats&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAung&rank_icon=github&theme=dark&card_width=400px&custom_title=Languages&layout=compact&hide=shaderlab,hlsl" />
+</a>
+</p>
+
+<!-- <a href="https://github.com/NathanAung">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NathanAung&rank_icon=github&theme=dark&card_width=400px&custom_title=Stats&show_icons=true" />
 </a>
 
 <a href="https://github.com/NathanAung">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAung&rank_icon=github&theme=dark&card_width=400px&custom_title=Languages&layout=compact&hide=shaderlab,hlsl" />
-</a>
+</a> -->
  
 
 <!--
