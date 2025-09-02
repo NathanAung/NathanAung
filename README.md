@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Zayar!;こんにちは、ゼイヤーです！"></a>
 </h1>
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 🎮 &nbsp;I love playing and making video games!\
 🎓 &nbsp;Graduated from University of Greenwich with BSc. Business IT\
 🏫 &nbsp;Currently studying Game Programming at Tokyo Design Technology Center\
@@ -44,7 +44,7 @@
 
 <br>
 
-### 📊 &nbsp;GitHub Analytics
+## 📊 &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/NathanAung">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NathanAung&rank_icon=github&count_private=true&theme=dark&card_width=400px&custom_title=Stats&show_icons=true" />
