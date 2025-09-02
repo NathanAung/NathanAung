@@ -52,6 +52,12 @@
 </a>
 </p>
 
+<br>
+
+## 💌 &nbsp;Contact Me
+<a href="mailto:zayaraung.contact@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/zayar-aung/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 <!-- <a href="https://github.com/NathanAung">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NathanAung&rank_icon=github&theme=dark&card_width=400px&custom_title=Stats&show_icons=true" />
 </a>
