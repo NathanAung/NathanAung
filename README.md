@@ -14,7 +14,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-#### 🔧 Languages
+#### 🔤 Languages
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -31,6 +31,10 @@
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
+#### 🏗️ Frameworks
+![Love2D](https://img.shields.io/badge/Love2D-FF4088?style=for-the-badge&logo=love2d&logoColor=white)
+![Siv3D](https://img.shields.io/badge/Siv3D-0E83CD?style=for-the-badge&logo=siv3do&logoColor=white)
+
 #### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -43,7 +47,7 @@
 ### 📊 &nbsp;GitHub Analytics
 <a href="https://github.com/NathanAung">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NathanAung&rank_icon=github&theme=dark&card_width=400px&custom_title=Stats&show_icons=true" />
-</a>&emsp;
+</a>&ensp;
 
 <a href="https://github.com/NathanAung">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAung&rank_icon=github&theme=dark&card_width=400px&custom_title=Languages&layout=compact&hide=shaderlab,hlsl" />
