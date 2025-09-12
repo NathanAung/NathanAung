@@ -63,7 +63,7 @@
 </a>
 
 <a href="https://github.com/NathanAung">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAung&rank_icon=github&theme=dark&card_width=400px&custom_title=Languages&layout=compact&hide=shaderlab,hlsl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAung&rank_icon=github&theme=dark&card_width=400px&custom_title=Languages&layout=compact&hide=shaderlab,hlsl,glsl,angelscript" />
 </a> -->
  
 
