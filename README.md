@@ -31,7 +31,8 @@
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-#### 📚 Libraries
+#### 🧩 Frameworks & APIs
+![DirectX](https://img.shields.io/badge/DirectX-%23239120?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Love2D](https://img.shields.io/badge/Love2D-FF4088?style=for-the-badge&logo=love2d&logoColor=white)
 ![Siv3D](https://img.shields.io/badge/Siv3D-0E83CD?style=for-the-badge&logo=siv3do&logoColor=white)
 
